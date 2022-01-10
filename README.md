@@ -10,7 +10,7 @@ R 是一种用于统计分析和绘图的计算机语言，在数据科学中占
 
 教程在线视频回放地址：https://space.bilibili.com/1979221372 
 
-01.  R 语言及其编程环境  [PDF](./01_R_intro_and_programming_tools.pdf)
+01.  R 语言及其编程环境  [PDF](https://gitee.com/Hello-BD/R-in-brief/raw/main/01_R_intro_and_programming_tools.pdf)
 02.  数据类型、结构和基础操作  
 03.  用 graphics 包绘图  
 04.  用 ggplot2 包绘图  
